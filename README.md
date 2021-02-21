@@ -1,4 +1,4 @@
-### Hi there 👋
+### Carlos Afonso
 
 <!--
 **carlos-afonso/carlos-afonso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Data Scientist and Machine Learning Engineer with experience solving business problems for Fortune 100 companies.
+
+Lead Data & Technology Educator / Instructor / Trainer (trained 500+ diverse adults in 2020 with excellent feedback).
+
+Passionate about leveraging Data & Technology to solve business problems and about teaching these skills to others.
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/carlos-afonso-w/)
