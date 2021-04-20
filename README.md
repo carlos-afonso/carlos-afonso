@@ -1,8 +1,8 @@
 ### Carlos Afonso
 
-- Data Scientist and Machine Learning Engineer with experience solving business problems for Fortune 100 companies.
-- Lead Data & Technology Educator / Instructor / Trainer (trained 500+ diverse adults in 2020 with excellent feedback).
-- Passionate about leveraging Data & Technology to solve business problems and about teaching these skills to others.
+- Expert Data Scientist with experience using Data & Tech to solve business problems for Fortune 100 companies.
+- Top performing Lead Data Science Instructor (trained 500+ diverse adults in 2020 with excellent feedback).
+- Passionate about leveraging Data & Tech to solve problems and about teaching these skills to others.
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/carlos-afonso-w/)
 
 <!--
